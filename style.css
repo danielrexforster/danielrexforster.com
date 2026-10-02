@@ -3,4 +3,4 @@
 .brand{display:block;width:150px;line-height:0}
 .brand img{display:block;width:100%;height:auto}
 @media (max-width:650px){.brand{width:126px}}
-@media (min-width:651px) and (max-width:1200px){.hero h1{font-size:5vw}}
+@media (min-width:651px) and (max-width:1200px){.hero h1{font-size:4.5vw}}
