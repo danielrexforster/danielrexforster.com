@@ -5,3 +5,4 @@
 @media (max-width:650px){.brand{width:126px}}
 body{min-height:100vh;display:flex;flex-direction:column}
 footer{margin-top:auto}
+.page{width:100%}
