@@ -3,3 +3,5 @@
 .brand{display:block;width:150px;line-height:0}
 .brand img{display:block;width:100%;height:auto}
 @media (max-width:650px){.brand{width:126px}}
+body{min-height:100vh;display:flex;flex-direction:column}
+main{flex:1}
